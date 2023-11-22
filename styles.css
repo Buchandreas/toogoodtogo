@@ -160,6 +160,7 @@ mark.white2 {
     background-color: #67d695;
     color: #00615f;
     border-radius: 30px;
+    font-size: 20px;
     cursor: pointer;
     display: inline-block;
     font-weight: 500;
