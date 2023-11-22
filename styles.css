@@ -92,7 +92,7 @@
   }
 
   div.trim {
-    max-height:600px;
+    max-height:550px;
     overflow: hidden;
     justify-content: center;
     align-items: center;
@@ -188,7 +188,8 @@ mark.white2 {
     border: none;
     display: flex;
     justify-content: right;
-    margin-left: 35px;
+    /* margin-left: 35px; */
+    margin-left: 720px;
 }
 
   .centeredvideo {
